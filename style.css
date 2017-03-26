@@ -29,3 +29,25 @@ a{
 .picture{
   float: right;
 }
+/*left section*/
+.left{
+  width: 25%;
+  height: 100%;
+  float: left;
+  background-color:#424242;
+}
+.left h3{
+  text-align: center;
+}
+.left li{
+  list-style-type: none;
+}
+.left ul{
+  padding-left: 60px;
+}
+.coordinates{
+  border-bottom: 2px solid #F0F4C3;
+}
+.hobby{
+  border-bottom: 2px solid #F0F4C3;
+}
