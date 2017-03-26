@@ -74,6 +74,11 @@ h4{
   border-bottom: 2px dotted #F0F4C3;
   height: 25%
 }
+td{
+  width: 200px;
+  padding-left: 80px;
+  padding-bottom: 30px
+}
 /*responsive*/
 @media screen and (max-width:800px) {
   body{
