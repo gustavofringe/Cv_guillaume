@@ -6,3 +6,13 @@ html{
   height: 800px;
   color:#F0F4C3
 }
+/*body*/
+body{
+  width: 70%;
+  margin: auto;
+  line-height: 30px
+}
+a{
+  color:white;
+  text-decoration: none;
+}
