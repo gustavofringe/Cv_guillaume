@@ -81,7 +81,11 @@ td{
 }
 /*responsive*/
 @media screen and (max-width:800px) {
-  body{
-    display: block;
-  }
+  img{display:none;}
+  .left{display: inline-block;float: none; width: 100%}
+  .right{float: none; width: 100%}
+  .header{height: 200px}
+  .mail{font-size: 10px}
+  .work{height: 33%}
+  td{padding: 10px; font-size: 12px}
 }
