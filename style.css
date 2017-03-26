@@ -79,3 +79,9 @@ h4{
 .electricity{
   border-bottom: 2px dotted #F0F4C3;
 }
+/*responsive*/
+@media screen and (max-width:800px) {
+  body{
+    display: block;
+  }
+}
