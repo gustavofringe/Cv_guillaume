@@ -1,0 +1,8 @@
+/*page html*/
+html{
+  font-family: 'Open Sans', sans-serif;
+  background-image: url(/img/wood.jpg);
+  padding-top: 100px;
+  height: 800px;
+  color:#F0F4C3
+}
