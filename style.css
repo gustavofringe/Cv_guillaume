@@ -16,3 +16,16 @@ a{
   color:white;
   text-decoration: none;
 }
+/*header*/
+.header{
+  background-color: #424242;
+  height: 133px;
+  width: 100%;
+  text-align: center;
+}
+.title{
+  padding-top: 20px;
+}
+.picture{
+  float: right;
+}
