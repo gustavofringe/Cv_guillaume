@@ -8,7 +8,7 @@ html{
 }
 /*body*/
 body{
-  width: 70%;
+  width: 60%;
   margin: auto;
   line-height: 30px
 }
@@ -70,18 +70,22 @@ a{
 h4{
   text-decoration: underline;
 }
-.kitchen{
+.work{
   border-bottom: 2px dotted #F0F4C3;
+  height: 25%
 }
-.service{
-  border-bottom: 2px dotted #F0F4C3;
-}
-.electricity{
-  border-bottom: 2px dotted #F0F4C3;
+td{
+  width: 200px;
+  padding-left: 80px;
+  padding-bottom: 30px
 }
 /*responsive*/
 @media screen and (max-width:800px) {
-  body{
-    display: block;
-  }
+  img{display:none;}
+  .left{display: inline-block;float: none; width: 100%}
+  .right{float: none; width: 100%}
+  .header{height: 200px}
+  .mail{font-size: 10px}
+  .work{height: 33%}
+  td{padding: 10px; font-size: 12px}
 }
