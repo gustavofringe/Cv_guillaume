@@ -3,6 +3,12 @@ header{
 	overflow: hidden;
 	background-color: #5E9EC4;
 }
+.junior{
+	border-bottom: 2px solid grey;
+}
+.head{
+	margin-top: 50px;
+}
 .container{
 	margin-top:20px;
 }
@@ -17,7 +23,7 @@ h2{
 h3{
 	font-size: 35px;
 	margin: 0;
-	border-bottom: 2px solid grey;
+	border-bottom: 2px dashed grey;
 	padding-bottom:15px;
 }
 .icon{
@@ -25,6 +31,13 @@ h3{
 }
 table{
 	width: 50%;
+}
+.competence li{
+	padding: 10px;
+}
+.passion li{
+	display: inline-block;
+	padding: 10px;
 }
 .footer{
 	color: #555555;
