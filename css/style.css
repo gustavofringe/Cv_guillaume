@@ -1,0 +1,41 @@
+header{
+	color: #555555;
+	overflow: hidden;
+	background-color: #5E9EC4;
+}
+.container{
+	margin-top:20px;
+}
+h1{
+	font-size: 55px;
+	margin: 0;
+}
+h2{
+	margin-top: 10px;
+	font-size: 40px;
+}
+h3{
+	font-size: 35px;
+	margin: 0;
+	border-bottom: 2px solid grey;
+	padding-bottom:15px;
+}
+.icon{
+	width: 10%;
+}
+table{
+	width: 50%;
+}
+.footer{
+	color: #555555;
+	height: 70px;
+	background-color: #5E9EC4;
+}
+.footer p{
+	margin: 0;
+	padding: 0;
+}
+.footer img{
+	margin-left: 5px;
+	height: 35px;
+}
