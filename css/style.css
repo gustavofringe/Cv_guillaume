@@ -3,6 +3,9 @@ header{
 	overflow: hidden;
 	background-color: #5E9EC4;
 }
+a{
+	color: #3e2723;
+}
 .junior{
 	border-bottom: 2px solid grey;
 }
